@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/chetanchaudhari789/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1580-shuffle-the-array](https://github.com/chetanchaudhari789/LeetCode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/chetanchaudhari789/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
