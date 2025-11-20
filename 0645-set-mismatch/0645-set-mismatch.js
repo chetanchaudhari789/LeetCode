@@ -14,7 +14,7 @@ var findErrorNums = function(nums) {
         if (freq[num]=== 2){
             duplicate = num;
         }
-    }
+    }     
 
 
     for(let i = 1; i <= n ; i++){
