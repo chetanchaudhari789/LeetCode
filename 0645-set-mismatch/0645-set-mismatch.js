@@ -5,7 +5,7 @@
 var findErrorNums = function(nums) {
     let n = nums.length;
     let duplicate  = -1;
-    let missing = -1;
+    let missing = -1;                       
     
     let freq = new Array(n+1).fill (0);
 
