@@ -17,6 +17,8 @@ var findErrorNums = function(nums) {
     }     
 
 
+
+
     for(let i = 1; i <= n ; i++){
         if(freq[i]=== 0){
             missing = i;
