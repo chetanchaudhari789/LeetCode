@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/chetanchaudhari789/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chetanchaudhari789/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/chetanchaudhari789/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetanchaudhari789/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/chetanchaudhari789/LeetCode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/chetanchaudhari789/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -43,8 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetanchaudhari789/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/chetanchaudhari789/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/chetanchaudhari789/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetanchaudhari789/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chetanchaudhari789/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chetanchaudhari789/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
